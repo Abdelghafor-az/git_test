@@ -1,0 +1,2 @@
+hello word, I've just start my journey on making projects on VMenv
+because, Now I start using git and the command line to do something.
